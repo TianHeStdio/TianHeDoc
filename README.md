@@ -8,12 +8,12 @@
 
 #### 读取
 
-.docx
-.doc
-.pdf
-.png
-.md
-.txt
+.docx 
+.doc 
+.pdf 
+.png 
+.md 
+.txt 
 
 #### 写入
 
