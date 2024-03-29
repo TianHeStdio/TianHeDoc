@@ -1,6 +1,6 @@
 # 天和文档
 
-### 英文版本 English Vison
+### English Vison
 
 [README-en](README-en.md)
 
