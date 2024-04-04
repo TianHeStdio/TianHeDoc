@@ -42,12 +42,16 @@ Why is this, I am a person who uses macOS, the ecology here is very bad (in Chin
 You might think that this project was made in C, but in fact it is implemented in C++, as you can see from this code  
 
 ```
-#include <iostream>
-#include <string.h>
-using namespace std;
-int main()
+#include "mainwindow.h"
+
+#include <QApplication>
+
+int main(int argc, char *argv[])
 {
-    cout << "hello world";
+    QApplication a(argc, argv);
+    MainWindow window;
+    window.show();
+    return a.exec();
 }
 ```
 
