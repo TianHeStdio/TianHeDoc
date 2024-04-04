@@ -1,8 +1,8 @@
-# TianH Doc
+# Days and Documentation
 
 ### 中文版
 
-[README-cn](README.md)  
+[README-cn](README.md)
 
 ## Software Introduction
 
@@ -34,7 +34,23 @@ Our software may be better than the software on the market, but we guarantee tha
 
 This is a documentation software, and while it's not as good as other software on the market, we guarantee that it's always open source (currently free)
 
+## Why is there it
+
 We use different development frameworks for macOS and Windows, with Windows written in QT and macOS written in swiftUI
-Why is this, I am a person who uses macOS, the ecology here is very bad (in Chinese mainland), even if there is a macOS version of the software, most of it is a shell
+Why is this, I am a person who uses macOS, the ecology here is very bad (in Chinese mainland), even if there is a macOS version of the software, most of it is a number, and I am a swiftUI front-end, so I started this project by chance  
+
+You might think that this project was made in C, but in fact it is implemented in C++, as you can see from this code  
+
+```
+#include <iostream>
+#include <string.h>
+using namespace std;
+int main()
+{
+    cout << "hello world";
+}
+```
+
+The reason for this is that CMake generates a bunch of .h files, which can give the illusion of it
 
 ##### 2024/3/29
