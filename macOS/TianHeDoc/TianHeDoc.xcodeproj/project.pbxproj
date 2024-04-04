@@ -1,0 +1,578 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		0488DE1B2BBE6BCB00BFA765 /* TianHeDocApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0488DE1A2BBE6BCB00BFA765 /* TianHeDocApp.swift */; };
+		0488DE1D2BBE6BCB00BFA765 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0488DE1C2BBE6BCB00BFA765 /* ContentView.swift */; };
+		0488DE1F2BBE6BCD00BFA765 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0488DE1E2BBE6BCD00BFA765 /* Assets.xcassets */; };
+		0488DE222BBE6BCD00BFA765 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0488DE212BBE6BCD00BFA765 /* Preview Assets.xcassets */; };
+		0488DE2D2BBE6BCD00BFA765 /* TianHeDocTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0488DE2C2BBE6BCD00BFA765 /* TianHeDocTests.swift */; };
+		0488DE372BBE6BCD00BFA765 /* TianHeDocUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0488DE362BBE6BCD00BFA765 /* TianHeDocUITests.swift */; };
+		0488DE392BBE6BCD00BFA765 /* TianHeDocUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0488DE382BBE6BCD00BFA765 /* TianHeDocUITestsLaunchTests.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		0488DE292BBE6BCD00BFA765 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 0488DE0F2BBE6BCB00BFA765 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 0488DE162BBE6BCB00BFA765;
+			remoteInfo = TianHeDoc;
+		};
+		0488DE332BBE6BCD00BFA765 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 0488DE0F2BBE6BCB00BFA765 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 0488DE162BBE6BCB00BFA765;
+			remoteInfo = TianHeDoc;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		0488DE172BBE6BCB00BFA765 /* TianHeDoc.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TianHeDoc.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		0488DE1A2BBE6BCB00BFA765 /* TianHeDocApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TianHeDocApp.swift; sourceTree = "<group>"; };
+		0488DE1C2BBE6BCB00BFA765 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		0488DE1E2BBE6BCD00BFA765 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		0488DE212BBE6BCD00BFA765 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		0488DE232BBE6BCD00BFA765 /* TianHeDoc.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = TianHeDoc.entitlements; sourceTree = "<group>"; };
+		0488DE282BBE6BCD00BFA765 /* TianHeDocTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TianHeDocTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		0488DE2C2BBE6BCD00BFA765 /* TianHeDocTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TianHeDocTests.swift; sourceTree = "<group>"; };
+		0488DE322BBE6BCD00BFA765 /* TianHeDocUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TianHeDocUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		0488DE362BBE6BCD00BFA765 /* TianHeDocUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TianHeDocUITests.swift; sourceTree = "<group>"; };
+		0488DE382BBE6BCD00BFA765 /* TianHeDocUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TianHeDocUITestsLaunchTests.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		0488DE142BBE6BCB00BFA765 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		0488DE252BBE6BCD00BFA765 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		0488DE2F2BBE6BCD00BFA765 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		0488DE0E2BBE6BCB00BFA765 = {
+			isa = PBXGroup;
+			children = (
+				0488DE192BBE6BCB00BFA765 /* TianHeDoc */,
+				0488DE2B2BBE6BCD00BFA765 /* TianHeDocTests */,
+				0488DE352BBE6BCD00BFA765 /* TianHeDocUITests */,
+				0488DE182BBE6BCB00BFA765 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		0488DE182BBE6BCB00BFA765 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				0488DE172BBE6BCB00BFA765 /* TianHeDoc.app */,
+				0488DE282BBE6BCD00BFA765 /* TianHeDocTests.xctest */,
+				0488DE322BBE6BCD00BFA765 /* TianHeDocUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		0488DE192BBE6BCB00BFA765 /* TianHeDoc */ = {
+			isa = PBXGroup;
+			children = (
+				0488DE1A2BBE6BCB00BFA765 /* TianHeDocApp.swift */,
+				0488DE1C2BBE6BCB00BFA765 /* ContentView.swift */,
+				0488DE1E2BBE6BCD00BFA765 /* Assets.xcassets */,
+				0488DE232BBE6BCD00BFA765 /* TianHeDoc.entitlements */,
+				0488DE202BBE6BCD00BFA765 /* Preview Content */,
+			);
+			path = TianHeDoc;
+			sourceTree = "<group>";
+		};
+		0488DE202BBE6BCD00BFA765 /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				0488DE212BBE6BCD00BFA765 /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		0488DE2B2BBE6BCD00BFA765 /* TianHeDocTests */ = {
+			isa = PBXGroup;
+			children = (
+				0488DE2C2BBE6BCD00BFA765 /* TianHeDocTests.swift */,
+			);
+			path = TianHeDocTests;
+			sourceTree = "<group>";
+		};
+		0488DE352BBE6BCD00BFA765 /* TianHeDocUITests */ = {
+			isa = PBXGroup;
+			children = (
+				0488DE362BBE6BCD00BFA765 /* TianHeDocUITests.swift */,
+				0488DE382BBE6BCD00BFA765 /* TianHeDocUITestsLaunchTests.swift */,
+			);
+			path = TianHeDocUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		0488DE162BBE6BCB00BFA765 /* TianHeDoc */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 0488DE3C2BBE6BCD00BFA765 /* Build configuration list for PBXNativeTarget "TianHeDoc" */;
+			buildPhases = (
+				0488DE132BBE6BCB00BFA765 /* Sources */,
+				0488DE142BBE6BCB00BFA765 /* Frameworks */,
+				0488DE152BBE6BCB00BFA765 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = TianHeDoc;
+			productName = TianHeDoc;
+			productReference = 0488DE172BBE6BCB00BFA765 /* TianHeDoc.app */;
+			productType = "com.apple.product-type.application";
+		};
+		0488DE272BBE6BCD00BFA765 /* TianHeDocTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 0488DE3F2BBE6BCD00BFA765 /* Build configuration list for PBXNativeTarget "TianHeDocTests" */;
+			buildPhases = (
+				0488DE242BBE6BCD00BFA765 /* Sources */,
+				0488DE252BBE6BCD00BFA765 /* Frameworks */,
+				0488DE262BBE6BCD00BFA765 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				0488DE2A2BBE6BCD00BFA765 /* PBXTargetDependency */,
+			);
+			name = TianHeDocTests;
+			productName = TianHeDocTests;
+			productReference = 0488DE282BBE6BCD00BFA765 /* TianHeDocTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		0488DE312BBE6BCD00BFA765 /* TianHeDocUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 0488DE422BBE6BCD00BFA765 /* Build configuration list for PBXNativeTarget "TianHeDocUITests" */;
+			buildPhases = (
+				0488DE2E2BBE6BCD00BFA765 /* Sources */,
+				0488DE2F2BBE6BCD00BFA765 /* Frameworks */,
+				0488DE302BBE6BCD00BFA765 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				0488DE342BBE6BCD00BFA765 /* PBXTargetDependency */,
+			);
+			name = TianHeDocUITests;
+			productName = TianHeDocUITests;
+			productReference = 0488DE322BBE6BCD00BFA765 /* TianHeDocUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		0488DE0F2BBE6BCB00BFA765 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1520;
+				LastUpgradeCheck = 1520;
+				TargetAttributes = {
+					0488DE162BBE6BCB00BFA765 = {
+						CreatedOnToolsVersion = 15.2;
+					};
+					0488DE272BBE6BCD00BFA765 = {
+						CreatedOnToolsVersion = 15.2;
+						TestTargetID = 0488DE162BBE6BCB00BFA765;
+					};
+					0488DE312BBE6BCD00BFA765 = {
+						CreatedOnToolsVersion = 15.2;
+						TestTargetID = 0488DE162BBE6BCB00BFA765;
+					};
+				};
+			};
+			buildConfigurationList = 0488DE122BBE6BCB00BFA765 /* Build configuration list for PBXProject "TianHeDoc" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 0488DE0E2BBE6BCB00BFA765;
+			productRefGroup = 0488DE182BBE6BCB00BFA765 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				0488DE162BBE6BCB00BFA765 /* TianHeDoc */,
+				0488DE272BBE6BCD00BFA765 /* TianHeDocTests */,
+				0488DE312BBE6BCD00BFA765 /* TianHeDocUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		0488DE152BBE6BCB00BFA765 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0488DE222BBE6BCD00BFA765 /* Preview Assets.xcassets in Resources */,
+				0488DE1F2BBE6BCD00BFA765 /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		0488DE262BBE6BCD00BFA765 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		0488DE302BBE6BCD00BFA765 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		0488DE132BBE6BCB00BFA765 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0488DE1D2BBE6BCB00BFA765 /* ContentView.swift in Sources */,
+				0488DE1B2BBE6BCB00BFA765 /* TianHeDocApp.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		0488DE242BBE6BCD00BFA765 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0488DE2D2BBE6BCD00BFA765 /* TianHeDocTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		0488DE2E2BBE6BCD00BFA765 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0488DE392BBE6BCD00BFA765 /* TianHeDocUITestsLaunchTests.swift in Sources */,
+				0488DE372BBE6BCD00BFA765 /* TianHeDocUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		0488DE2A2BBE6BCD00BFA765 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 0488DE162BBE6BCB00BFA765 /* TianHeDoc */;
+			targetProxy = 0488DE292BBE6BCD00BFA765 /* PBXContainerItemProxy */;
+		};
+		0488DE342BBE6BCD00BFA765 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 0488DE162BBE6BCB00BFA765 /* TianHeDoc */;
+			targetProxy = 0488DE332BBE6BCD00BFA765 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		0488DE3A2BBE6BCD00BFA765 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MACOSX_DEPLOYMENT_TARGET = 14.2;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		0488DE3B2BBE6BCD00BFA765 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MACOSX_DEPLOYMENT_TARGET = 14.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = macosx;
+				SWIFT_COMPILATION_MODE = wholemodule;
+			};
+			name = Release;
+		};
+		0488DE3D2BBE6BCD00BFA765 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = TianHeDoc/TianHeDoc.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"TianHeDoc/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = JMMMCode.TianHeDoc;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		0488DE3E2BBE6BCD00BFA765 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = TianHeDoc/TianHeDoc.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"TianHeDoc/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = JMMMCode.TianHeDoc;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
+		0488DE402BBE6BCD00BFA765 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 14.2;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = JMMMCode.TianHeDocTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/TianHeDoc.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/TianHeDoc";
+			};
+			name = Debug;
+		};
+		0488DE412BBE6BCD00BFA765 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 14.2;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = JMMMCode.TianHeDocTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/TianHeDoc.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/TianHeDoc";
+			};
+			name = Release;
+		};
+		0488DE432BBE6BCD00BFA765 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = JMMMCode.TianHeDocUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TEST_TARGET_NAME = TianHeDoc;
+			};
+			name = Debug;
+		};
+		0488DE442BBE6BCD00BFA765 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = JMMMCode.TianHeDocUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TEST_TARGET_NAME = TianHeDoc;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		0488DE122BBE6BCB00BFA765 /* Build configuration list for PBXProject "TianHeDoc" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				0488DE3A2BBE6BCD00BFA765 /* Debug */,
+				0488DE3B2BBE6BCD00BFA765 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		0488DE3C2BBE6BCD00BFA765 /* Build configuration list for PBXNativeTarget "TianHeDoc" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				0488DE3D2BBE6BCD00BFA765 /* Debug */,
+				0488DE3E2BBE6BCD00BFA765 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		0488DE3F2BBE6BCD00BFA765 /* Build configuration list for PBXNativeTarget "TianHeDocTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				0488DE402BBE6BCD00BFA765 /* Debug */,
+				0488DE412BBE6BCD00BFA765 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		0488DE422BBE6BCD00BFA765 /* Build configuration list for PBXNativeTarget "TianHeDocUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				0488DE432BBE6BCD00BFA765 /* Debug */,
+				0488DE442BBE6BCD00BFA765 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 0488DE0F2BBE6BCB00BFA765 /* Project object */;
+}
