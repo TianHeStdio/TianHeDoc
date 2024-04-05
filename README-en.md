@@ -39,22 +39,4 @@ This is a documentation software, and while it's not as good as other software o
 We use different development frameworks for macOS and Windows, with Windows written in QT and macOS written in swiftUI
 Why is this, I am a person who uses macOS, the ecology here is very bad (in Chinese mainland), even if there is a macOS version of the software, most of it is a number, and I am a swiftUI front-end, so I started this project by chance  
 
-You might think that this project was made in C, but in fact it is implemented in C++, as you can see from this code  
-
-```
-#include "mainwindow.h"
-
-#include <QApplication>
-
-int main(int argc, char *argv[])
-{
-    QApplication a(argc, argv);
-    MainWindow window;
-    window.show();
-    return a.exec();
-}
-```
-
-The reason for this is that CMake generates a bunch of .h files, which can give the illusion of it
-
 ##### 2024/4/4
