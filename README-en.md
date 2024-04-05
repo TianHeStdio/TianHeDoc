@@ -39,4 +39,4 @@ This is a documentation software, and while it's not as good as other software o
 We use different development frameworks for macOS and Windows, with Windows written in QT and macOS written in swiftUI
 Why is this, I am a person who uses macOS, the ecology here is very bad (in Chinese mainland), even if there is a macOS version of the software, most of it is a number, and I am a swiftUI front-end, so I started this project by chance  
 
-##### 2024/4/4
+##### 2024/4/5
