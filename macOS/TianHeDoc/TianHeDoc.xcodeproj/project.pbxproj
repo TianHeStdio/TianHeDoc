@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		041FBEE02BC1462900B07D97 /* Landmarks.swift in Sources */ = {isa = PBXBuildFile; fileRef = 041FBEDF2BC1462900B07D97 /* Landmarks.swift */; };
 		04401E0C2BBE8E140030212B /* TianHeDocApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04401E0B2BBE8E140030212B /* TianHeDocApp.swift */; };
 		04401E0E2BBE8E140030212B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04401E0D2BBE8E140030212B /* ContentView.swift */; };
 		04401E102BBE8E160030212B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 04401E0F2BBE8E160030212B /* Assets.xcassets */; };
@@ -34,6 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		041FBEDF2BC1462900B07D97 /* Landmarks.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Landmarks.swift; sourceTree = "<group>"; };
 		04401E082BBE8E140030212B /* TianHeDoc.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TianHeDoc.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		04401E0B2BBE8E140030212B /* TianHeDocApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TianHeDocApp.swift; sourceTree = "<group>"; };
 		04401E0D2BBE8E140030212B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -97,6 +99,7 @@
 			children = (
 				04401E0B2BBE8E140030212B /* TianHeDocApp.swift */,
 				04401E0D2BBE8E140030212B /* ContentView.swift */,
+				041FBEDF2BC1462900B07D97 /* Landmarks.swift */,
 				04401E0F2BBE8E160030212B /* Assets.xcassets */,
 				04401E142BBE8E160030212B /* TianHeDoc.entitlements */,
 				04401E112BBE8E160030212B /* Preview Content */,
@@ -260,6 +263,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				04401E0E2BBE8E140030212B /* ContentView.swift in Sources */,
+				041FBEE02BC1462900B07D97 /* Landmarks.swift in Sources */,
 				04401E0C2BBE8E140030212B /* TianHeDocApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
