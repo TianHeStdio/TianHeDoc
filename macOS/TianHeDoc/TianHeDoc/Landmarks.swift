@@ -2,8 +2,13 @@
 //  Landmarks.swift
 //  TianHeDoc
 //
-//  Created by mac on 2024/4/6.
+//  Copyright ©2023-2024 TianHeStudio
 //
+//  Created by JMMM on SAT 6/4/2024
+//
+//  Last edited by JMMM on THU 11/4/2024
+//
+//  Feature:
 
 import Foundation
 import SwiftUI
