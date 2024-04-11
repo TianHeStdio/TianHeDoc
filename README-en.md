@@ -6,9 +6,7 @@
 
 ## Software Introduction
 
-The interface of this software is modeled after Office, but we put the font document and other components on the top, and the special components on the left (which can be adjusted by yourself), and if you are too lazy to move the mouse, you can also press the / button and use the arrow keys to select  
-
-All the shortcuts of this software are placed in the KEYWORDS.md file of the project, and this software can use the Office shortcut layout or the day and document shortcut layout, so that everyone with different habits can use the familiar key layout  
+The interface of this software is modeled after Office, but we put the font document and other components on the top, and the special components on the left (which can be adjusted by yourself), and if you are too lazy to move the mouse, you can also press the / button and use the arrow keys to select   
 
 Our software may be better than the software on the market, but we guarantee that the software will always be free and open source, and if we later charge for a feature, you can also modify the source code to make you prostitute
 
