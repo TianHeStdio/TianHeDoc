@@ -4,6 +4,8 @@
 //
 //  Copyright ©2023-2024 TianHeStudio
 //
+//  Developer is JMMM(UID1)
+//
 //  Created by JMMM on SAT 6/4/2024
 //
 //  Last edited by JMMM on THU 11/4/2024
