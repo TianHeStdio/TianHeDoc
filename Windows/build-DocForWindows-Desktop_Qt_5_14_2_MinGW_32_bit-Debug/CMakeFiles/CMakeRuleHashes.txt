@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+4afbe127c554c77ce1cd84bcdffdc11c CMakeFiles/DocForWindows_autogen
