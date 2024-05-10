@@ -1,8 +1,0 @@
-[
-{
-  "directory": "C:/Users/BTM_JM/Documents/TianH_Projack/Doc/windows/TianH-Doc/build",
-  "command": "C:\\mingw\\bin\\c++.exe -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -isystem C:/Qt/Qt5.14.2/5.14.2/mingw73_32/include -isystem C:/Qt/Qt5.14.2/5.14.2/mingw73_32/include/QtCore -isystem C:/Qt/Qt5.14.2/5.14.2/mingw73_32/./mkspecs/win32-g++ -isystem C:/Qt/Qt5.14.2/5.14.2/mingw73_32/include/QtWidgets -isystem C:/Qt/Qt5.14.2/5.14.2/mingw73_32/include/QtGui -isystem C:/Qt/Qt5.14.2/5.14.2/mingw73_32/include/QtANGLE -g -std=gnu++14 -o CMakeFiles\\test_qt5.dir\\main.cpp.obj -c C:\\Users\\BTM_JM\\Documents\\TianH_Projack\\Doc\\windows\\TianH-Doc\\main.cpp",
-  "file": "C:\\Users\\BTM_JM\\Documents\\TianH_Projack\\Doc\\windows\\TianH-Doc\\main.cpp",
-  "output": "CMakeFiles\\test_qt5.dir\\main.cpp.obj"
-}
-]

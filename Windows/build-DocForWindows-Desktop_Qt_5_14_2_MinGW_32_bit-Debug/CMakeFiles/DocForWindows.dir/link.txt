@@ -1,3 +1,0 @@
-"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\DocForWindows.dir/objects.a
-C:\Qt\Qt5.14.2\Tools\mingw730_32\bin\ar.exe qc CMakeFiles\DocForWindows.dir/objects.a @CMakeFiles\DocForWindows.dir\objects1.rsp
-C:\Qt\Qt5.14.2\Tools\mingw730_32\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\DocForWindows.dir/objects.a -Wl,--no-whole-archive -o DocForWindows.exe -Wl,--out-implib,libDocForWindows.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\DocForWindows.dir\linkLibs.rsp
