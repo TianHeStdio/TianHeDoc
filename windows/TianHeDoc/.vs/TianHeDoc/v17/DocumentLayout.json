@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BTM_JM\\Documents\\TianH_Projack\\Doc\\windows\\TianHeDoc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2CE22021-2C42-44E7-AE57-02AE53F1F308}|TianHeDoc\\TianHeDoc.vcxproj|C:\\PROGRAM FILES (X86)\\WINDOWS KITS\\10\\INCLUDE\\10.0.22621.0\\UM\\WINNT.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CE22021-2C42-44E7-AE57-02AE53F1F308}|TianHeDoc\\TianHeDoc.vcxproj|C:\\Users\\BTM_JM\\Documents\\TianH_Projack\\Doc\\windows\\TianHeDoc\\TianHeDoc\\DocForWindows.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2CE22021-2C42-44E7-AE57-02AE53F1F308}|TianHeDoc\\TianHeDoc.vcxproj|solutionrelative:TianHeDoc\\DocForWindows.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CE22021-2C42-44E7-AE57-02AE53F1F308}|TianHeDoc\\TianHeDoc.vcxproj|D:\\VISUALSTUDIO\\IDE\\VC\\TOOLS\\MSVC\\14.39.33519\\INCLUDE\\CSTRING||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CE22021-2C42-44E7-AE57-02AE53F1F308}|TianHeDoc\\TianHeDoc.vcxproj|C:\\PROGRAM FILES (X86)\\WINDOWS KITS\\10\\INCLUDE\\10.0.22621.0\\SHARED\\GUIDDEF.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "cstring",
+              "DocumentMoniker": "D:\\VisualStudio\\IDE\\VC\\Tools\\MSVC\\14.39.33519\\include\\cstring",
+              "ToolTip": "D:\\VisualStudio\\IDE\\VC\\Tools\\MSVC\\14.39.33519\\include\\cstring",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-10T13:34:07.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "winnt.h",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\um\\winnt.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\um\\winnt.h",
+              "ToolTip": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\um\\winnt.h",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\um\\winnt.h",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAuwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-10T13:33:21.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "guiddef.h",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\guiddef.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\guiddef.h",
+              "ToolTip": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\guiddef.h",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\guiddef.h",
+              "ViewState": "AQIAAHsAAAAAAAAAAAAuwJEAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-10T12:59:07.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DocForWindows.cpp",
+              "DocumentMoniker": "C:\\Users\\BTM_JM\\Documents\\TianH_Projack\\Doc\\windows\\TianHeDoc\\TianHeDoc\\DocForWindows.cpp",
+              "RelativeDocumentMoniker": "TianHeDoc\\DocForWindows.cpp",
+              "ToolTip": "C:\\Users\\BTM_JM\\Documents\\TianH_Projack\\Doc\\windows\\TianHeDoc\\TianHeDoc\\DocForWindows.cpp",
+              "RelativeToolTip": "TianHeDoc\\DocForWindows.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-10T12:24:56.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

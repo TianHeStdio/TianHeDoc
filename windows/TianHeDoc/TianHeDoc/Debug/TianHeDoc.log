@@ -1,0 +1,9 @@
+﻿  DocForWindows.cpp
+  TianHeDoc.cpp
+  正在生成代码...
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(34,10): error C1083: 无法打开包括文件: “ctype.h”: No such file or directory
+  (编译源文件“DocForWindows.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(34,10): error C1083: 无法打开包括文件: “ctype.h”: No such file or directory
+  (编译源文件“TianHeDoc.cpp”)
+  
