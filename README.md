@@ -1,19 +1,18 @@
-# 天和文档
+# TianHe Documentation
 
-### English Vison
+### 中文版
 
-[README-en](README-en.md)
+[README-cn](README.md)
 
-## 软件介绍
+## Software Introduction
 
-这个软件我们的界面思路仿照了Office，不过我们把字体文档等组件放在了最上面，把特殊组件放在了左边（可以自行调整），如果你懒得移动鼠标，还可以按下 / 按键，使用方向键来选择   
+The interface of this software is modeled after Office, but we put the font document and other components on the top, and the special components on the left (which can be adjusted by yourself), and if you are too lazy to move the mouse, you can also press the / button and use the arrow keys to select   
 
-我们这款软件可能比不上市面上的软件好，不过我们保证这款软件永久免费、开源，假如后来我们让某个功能收费了，你也可以修改源代码来让你白嫖
+Our software may be better than the software on the market, but we guarantee that the software will always be free and open source, and if we later charge for a feature, you can also modify the source code to make you prostitute
 
+### Formats are currently supported
 
-### 目前支持格式
-
-#### 读取
+#### Read
 
 .docx 
 .doc 
@@ -22,20 +21,20 @@
 .md 
 .txt 
 
-#### 写入
+#### Write
 
 .docx 
 .doc 
 .md 
 .txt 
 
-## 介绍
+## Introduction
 
-这是一个文档类软件，虽然不如市场上其他软件，但我们保证它永远开源（目前免费）
+This is a documentation software, and while it's not as good as other software on the market, we guarantee that it's always open source (currently free)
 
-## 为什么有它
+## Why is there it
 
-这款软件我们对macOS和Windows版本使用了不同的开发框架，Windows使用QT编写，而macOS使用swiftUI编写
-为什么这样，我是使用macOS的人，这里的生态很糟糕（在中国大陆），就算有macOS版软件的，也大部分是个凑数的，而我正是一个swiftUI的前端，所以机缘巧合下开启了这个项目  
+We use different development frameworks for macOS and Windows, with Windows written in QT and macOS written in swiftUI
+Why is this, I am a person who uses macOS, the ecology here is very bad (in Chinese mainland), even if there is a macOS version of the software, most of it is a number, and I am a swiftUI front-end, so I started this project by chance  
 
-##### 2024/5/5
+##### 2024/4/5
